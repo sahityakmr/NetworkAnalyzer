@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="bottom"
+    android:background="@color/colorTextWhite"
+    tools:context="the_anonymous_koder_2.networkanalyzer.Activity.Authenticate">
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:src="@drawable/tower"
+        android:layout_gravity="center"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            style="@style/formEditTextDrawable"
+            android:src="@drawable/ic_mail" />
+        <EditText
+            style="@style/formEditText"
+            android:id="@+id/auth_email"
+            android:hint="Email"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            style="@style/formEditTextDrawable"
+            android:src="@drawable/ic_pass" />
+        <EditText
+            style="@style/formEditText"
+            android:id="@+id/auth_pass"
+            android:hint="Password"/>
+    </LinearLayout>
+
+    <Button
+        style="@style/buttonOne"
+        android:layout_marginTop="16dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:paddingLeft="48dp"
+        android:paddingRight="48dp"
+        android:layout_height="wrap_content"
+        android:textColor="?colorPrimary"
+        android:text="Sign In"
+        android:id="@+id/auth_btn"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:layout_marginTop="16dp"
+        android:text="Or Sign In with Google?"/>
+
+    <com.google.android.gms.common.SignInButton
+        android:layout_width="match_parent"
+        android:id="@+id/google_login"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

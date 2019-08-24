@@ -1,0 +1,165 @@
+<resources>
+    <string name="app_name">NetworkAnalyzer</string>
+    <string name="firebase_raw">raw</string>
+    <string name="firebase_processed">processed</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <string name="date_time">dd/MM/yyyy HH:mm:ss</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="title_activity_splash">Splash</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="firebase_operators">operators</string>
+    <string name="prefs_theme_key">theme</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="search">Search</string>
+    <string name="notification">Search</string>
+    <string name="cart">Cart</string>
+    <string name="orders">Orders</string>
+    <string name="login">Login</string>
+
+    <string name="hh_tab_packaged">PACKED</string>
+    <string name="hh_tab_bunch">BUNCH</string>
+    <string name="hh_tab_special">SPECIAL</string>
+    <string name="hh_tab_drinks">DRINKS</string>
+    <string name="hh_tab_baked">BAKED</string>
+
+    <string name="ch_tab_all">Operators</string>
+    <string name="ch_tab_packaged">Sent Log</string>
+    <string name="ch_tab_bunch">Current Data</string>
+    <string name="ch_tab_deals">Crash Reports</string>
+    <string name="ch_tab_favourites">FAVOURITES</string>
+    <string name="ch_tab_special">SPECIAL</string>
+    <string name="ch_tab_drinks">DRINKS</string>
+    <string name="ch_tab_baked">BAKED</string>
+
+    <string name="auth_tab_sign_in">SIGN IN</string>
+    <string name="auth_tab_sign_up">SIGN UP</string>
+
+    <string name="ho_tab_all">All</string>
+    <string name="ho_tab_new">New</string>
+    <string name="ho_tab_initiated">Initiated</string>
+    <string name="ho_tab_processed">Processed</string>
+    <string name="ho_tab_delivered">Delivered</string>
+    <string name="ho_tab_cancelled">Cancelled</string>
+
+    <string name="client_pv_productName">Product Name</string>
+
+
+    <string name="drawer_title">Sign in</string>
+    <string name="drawer_subtitle">(or create new account)</string>
+
+    <string name="ch_nav_menu_account_title">Profile</string>
+    <string name="ch_nav_menu_view_profile">View Profile</string>
+    <string name="ch_nav_menu_orders">View Orders</string>
+    <string name="ch_nav_menu_transaction">View Transactions</string>
+    <string name="ch_nav_menu_refill_req">Add Money</string>
+    <string name="ch_nav_menu_send_money">Send Money</string>
+    <string name="ch_nav_menu_refill">Recharge</string>
+    <string name="ch_nav_menu_deliver">Deliver Item</string>
+    <string name="ch_nav_menu_users">View Users</string>
+    <string name="ch_nav_menu_change_pass">Change Password</string>
+    <string name="ch_nav_menu_logout">Logout</string>
+    <string name="ch_nav_menu_app_title">Application</string>
+    <string name="ch_nav_menu_preferences">Preferences</string>
+    <string name="ch_nav_menu_about">About</string>
+
+    <string name="rupee">\u20B9</string>
+
+    <string name="hh_tab_all">All</string>
+    <string name="hh_tab_deals">Hot Deals</string>
+    <string name="hh_tab_favourites">Favourites</string>
+
+
+    <string name="client_pv_discount">10% Off</string>
+    <string name="client_pv_sold">Orders : 0</string>
+    <string name="client_pv_stock">Stock : 0</string>
+    <string name="client_pv_productDescription">Description</string>
+    <string name="client_pv_price">Price</string>
+    <string name="client_pv_mrp">MRP</string>
+
+    <string name="host_pv_discount">Discount</string>
+    <string name="host_pv_sold">Orders :</string>
+    <string name="host_pv_stock">Stock :</string>
+    <string name="host_pv_name">Product Name</string>
+    <string name="host_pv_desc">Description</string>
+    <string name="host_pv_price">Price</string>
+    <string name="host_pv_mrp">MRP</string>
+    <string name="host_pv_rating">Rating</string>
+    <string name="host_pv_cat">Category :</string>
+
+
+    <string name="drawer_bal">Current Balance</string>
+
+
+    <string name="hh_nav_menu_account_title">Profile</string>
+    <string name="hh_nav_menu_view_profile">View Profile</string>
+    <string name="hh_nav_menu_orders">View Orders</string>
+    <string name="hh_nav_menu_transaction">View Transactions</string>
+    <string name="hh_nav_menu_change_pass">Change Password</string>
+    <string name="hh_nav_menu_logout">Logout</string>
+    <string name="hh_nav_menu_app_title">Application</string>
+    <string name="hh_nav_menu_preferences">Preferences</string>
+    <string name="hh_nav_menu_about">About</string>
+
+
+    <string name="date_time_format">dd/MM/yyyy HH:mm:ss</string>
+
+    <!--Firebase Strings - Do Not Modify-->
+    <string name="firebase_users">Users</string>
+    <string name="firebase_hosts">Hosts</string>
+    <string name="firebase_hosts_transactions">transactions</string>
+    <string name="firebase_users_dev_id">device_id</string>
+    <string name="firebase_hosts_name">name</string>
+    <string name="firebase_hosts_email">email</string>
+    <string name="firebase_users_login_id">login_token</string>
+    <string name="firebase_users_favourites">favourites</string>
+    <string name="firebase_users_transactions">transactions</string>
+    <string name="firebase_hosts_dev_id">device_id</string>
+    <string name="firebase_hosts_login_id">login_token</string>
+    <string name="firebase_hosts_accounts">accounts</string>
+    <string name="firebase_hosts_orders">orders</string>
+    <string name="firebase_hosts_products">products</string>
+    <string name="firebase_hosts_products_image">image</string>
+    <string name="firebase_hosts_products_category">product_category</string>
+    <string name="firebase_hosts_products_discount">discount</string>
+    <string name="firebase_hosts_products_sold">sold</string>
+    <string name="firebase_hosts_products_available">available</string>
+    <string name="firebase_hosts_orders_items">items</string>
+    <string name="firebase_hosts_orders_email">email</string>
+    <string name="firebase_hosts_orders_initiated">initiated</string>
+    <string name="firebase_hosts_orders_initiated_date_time">initiated_date_time</string>
+    <string name="firebase_hosts_orders_processed">processed</string>
+    <string name="firebase_hosts_orders_processed_date_time">processed_date_time</string>
+    <string name="firebase_hosts_orders_delivered">delivered</string>
+    <string name="firebase_hosts_orders_delivered_date_time">delivered_date_time</string>
+    <string name="firebase_hosts_orders_cancelled">cancelled</string>
+    <string name="firebase_hosts_orders_cancelled_date_time">cancelled_date_time</string>
+    <string name="firebase_hosts_orders_remark">remark</string>
+    <!--Strings Ends-->
+
+    <!--Firebase Storage - Do Not Touch-->
+    <string name="firestore_hosts">Hosts</string>
+    <string name="firestore_hosts_product_images">product_images</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--String Ends-->
+
+</resources>

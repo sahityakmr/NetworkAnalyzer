@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#039BE5</color>
+    <color name="colorPrimaryDark">#0d39d7</color>
+    <color name="colorAccent">#FFCB2B</color>
+    <color name="colorPrimaryDark_red">#D32F2F</color>
+    <color name="colorAccent_red">#FFEBEE</color>
+
+    <color name="colorPrimary_teal">#009688</color>
+    <color name="colorPrimaryDark_teal">#00796B</color>
+    <color name="colorAccent_teal">#FF4081</color>
+
+    <color name="colorPrimary_cyan">#00BCD4</color>
+    <color name="colorPrimaryDark_cyan">#0097A7</color>
+    <color name="colorAccent_cyan">#FF4081</color>
+
+    <color name="colorPrimary_lime">#CDDC39</color>
+    <color name="colorPrimaryDark_lime">#AFB42B</color>
+    <color name="colorAccent_lime">#FF4081</color>
+
+    <color name="colorPrimary_amber">#FFC107</color>
+    <color name="colorPrimaryDark_amber">#FFA000</color>
+    <color name="colorAccent_amber">#FF4081</color>
+
+    <color name="colorPrimary_orange">#FF5722</color>
+    <color name="colorPrimaryDark_orange">#E64A19</color>
+    <color name="colorAccent_orange">#FF4081</color>
+
+    <color name="colorPrimary_blueGray">#607D8B</color>
+    <color name="colorPrimaryDark_blueGray">#455A64</color>
+    <color name="colorAccent_blueGray">#FF4081</color>
+
+    <color name="colorTextWhite">#FFFFFF</color>
+    <color name="colorProductDescription">#78909C</color>
+    <color name="colorTextBlack">#000000</color>
+    <color name="colorTextGray">#555555</color>
+    <color name="lightGray">#666666</color>
+    <color name="lightGrayTwo">#909099</color>
+
+    <color name="colorProductPrice">#558B2F</color>
+    <color name="colorLightGreen">#76da30</color>
+    <color name="colorProductMRP">#D50000</color>
+
+    <color name="colorMenuIcon">#FFFFFF</color>
+    <color name="colorBlackTint">#55000000</color>
+
+    <color name="background">#CFD8DC</color>
+
+    <color name="viewPartition">#DDDDDD</color>
+
+    <color name="textDark">#125688</color>
+    <color name="textLight">#ffffff</color>
+
+    <color name="host_pv_title_color">#FFFFFF</color>
+
+    <color name="spot_dialog_color">@android:color/holo_blue_dark</color>
+</resources>

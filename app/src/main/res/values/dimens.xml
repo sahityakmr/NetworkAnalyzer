@@ -1,0 +1,59 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="text_very_very_small">8dp</dimen>
+    <dimen name="text_very_small">12dp</dimen>
+    <dimen name="text_small">16dp</dimen>
+    <dimen name="text_medium">20dp</dimen>
+    <dimen name="text_large">24dp</dimen>
+    <dimen name="text_very_large">28dp</dimen>
+    <dimen name="text_very_very_large">32dp</dimen>
+
+    <dimen name="margin_ultra_small">2dp</dimen>
+    <dimen name="margin_very_very_small">4dp</dimen>
+    <dimen name="margin_very_small">8dp</dimen>
+    <dimen name="margin_small">12dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_large">20dp</dimen>
+    <dimen name="margin_very_large">24dp</dimen>
+    <dimen name="margin_very_very_large">28dp</dimen>
+    <dimen name="margin_ultra_large">32dp</dimen>
+    <dimen name="spot_size">6dp</dimen>
+    <dimen name="title_margin">10dp</dimen>
+    <dimen name="progress_margin">24dp</dimen>
+    <dimen name="progress_width">250dp</dimen>
+
+    <dimen name="tab_layout_height">48dp</dimen>
+    <dimen name="layout_padding">16dp</dimen>
+    <dimen name="cart_view_padding">4dp</dimen>
+
+    <dimen name="card_view_margin">4dp</dimen>
+    <dimen name="card_view_corner_radius">2dp</dimen>
+
+    <dimen name="product_drawee_height_pv">150dp</dimen>
+    <dimen name="product_drawee_width_pv">120dp</dimen>
+
+    <dimen name="product_drawee_height_cart">100dp</dimen>
+    <dimen name="product_drawee_width_cart">130dp</dimen>
+
+    <dimen name="drawer_title_size">20dp</dimen>
+    <dimen name="drawer_subtitle_size">16dp</dimen>
+    <dimen name="tab_text_padding">16dp</dimen>
+    <dimen name="tab_label_text_size">16dp</dimen>
+
+    <dimen name="rating_bar_width">150dp</dimen>
+    <dimen name="rating_bar_height">16dp</dimen>
+
+    <dimen name="host_pv_product_name">20dp</dimen>
+    <dimen name="host_pv_product_desc">18dp</dimen>
+    <dimen name="host_pv_product_MRP">20dp</dimen>
+    <dimen name="host_pv_product_discount">20dp</dimen>
+    <dimen name="host_pv_product_price">20dp</dimen>
+
+    <dimen name="text_badge">10dp</dimen>
+
+    <dimen name="host_pv_tag_bottom_padding">2dp</dimen>
+    <dimen name="host_pv_desc_text_size">12dp</dimen>
+</resources>
